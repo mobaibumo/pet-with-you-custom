@@ -63,4 +63,3 @@ npm run check:docs
 现有代码许可和版权声明保留在 [LICENSE](LICENSE) 与 [LICENSE.upstream](LICENSE.upstream)。本次新增内容的许可选择尚待维护者确认。角色与动画保留上游非商业使用及署名条件；生成的角色装饰不因此扩大素材授权。详见 [ATTRIBUTION.md](ATTRIBUTION.md)。
 
 分发许可未确认的字体保留在本地，不纳入 Git，界面使用系统字体。个人数据、密钥、安装目录、缓存、原始设计稿和测试产物均不属于上传范围。公开仓库前仍需确认新增内容许可和第三方素材的分发边界。
-
